@@ -6,3 +6,4 @@ This repository contains all lab work and practical exercises for the **CS4085 â
 
 - **Lab 1:** Logistic Regression with a Neural Network Mindset
 - **Lab 2:** Planar Data Classification with One Hidden Layer
+- **Lab 3:** Weight Initialization
