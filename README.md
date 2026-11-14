@@ -9,3 +9,4 @@ This repository contains all lab work and practical exercises for the **CS4085 â
 - **Lab 3:** Weight Initialization
 - **Lab 4:** Regularization
 - **Lab 5:** CNN Applications with TensorFlow Keras
+- **Lab 6:** Car Detection with YOLO
